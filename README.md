@@ -1,6 +1,4 @@
-# c19-120-n-data-bi
-
-# Detección de Fraude en Transacciones Fintech
+# NO COUNTRY | c19-120-n-data-bi | Detección de Fraude en Transacciones Fintech
 
 ## Sobre el Proyecto
 
