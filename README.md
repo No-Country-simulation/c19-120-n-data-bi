@@ -44,6 +44,15 @@ Ejemplo de una fila de datos con explicaciones:
 
 1,PAYMENT,1060.31,C429214117,1089.0,28.69,M1591654462,0.0,0.0,0,0
 
+## Stack Tecnológico
+
+Para el desarrollo de este proyecto, utilizaremos las siguientes herramientas tecnológicas:
+
+- **Python**: Lenguaje de programación principal para el desarrollo del algoritmo de machine learning y análisis de datos.
+- **Tableau**: Herramienta de visualización de datos para crear dashboards interactivos y gráficos que ayuden a interpretar los resultados.
+- **Google Colab**: Plataforma de notebooks en la nube que permite escribir y ejecutar código Python de forma colaborativa.
+- **Google Cloud Platform (GCP)**: Infraestructura en la nube para almacenamiento de datos, ejecución de modelos de machine learning y despliegue de aplicaciones.
+- **Trello**: Herramienta de gestión de proyectos para organizar tareas, seguimiento del progreso y colaboración en equipo.
 
 ### Antecedentes de la Investigación
 
