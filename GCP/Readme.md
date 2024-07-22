@@ -37,7 +37,7 @@ Este documento proporciona los pasos detallados para configurar una Máquina Vir
    > **Necesidad**: Conectar a la VM a través de SSH nos permite administrar y configurar el entorno desde la línea de comandos.
 
 2. **Actualizar los paquetes del sistema**:
-   ```sh
+   sh
    sudo apt update
    sudo apt install -y python3-pip
    pip3 install jupyter
